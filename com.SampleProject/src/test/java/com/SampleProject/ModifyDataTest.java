@@ -12,5 +12,6 @@ public class ModifyDataTest {
 	@Test(groups = "smoke")
 	public void deleteTest() {
 		System.out.println("--data deleted--");
+		System.out.println("Extra step added from github");
 	}
 }
