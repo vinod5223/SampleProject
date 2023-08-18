@@ -13,5 +13,6 @@ public class ModifyDataTest {
 	public void deleteTest() {
 		System.out.println("--data deleted--");
 		System.out.println("Extra step added from github");
+		System.out.println("This step is newly added from eclipse which is to be pushed");
 	}
 }
